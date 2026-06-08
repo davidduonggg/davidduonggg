@@ -1,2 +1,2 @@
 # README
-Hi, my interests currently lie in data engineering, distributed computing and business intelligence.
+Hi, my interests currently lie in the broader data ecosystem.
